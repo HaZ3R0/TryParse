@@ -1,0 +1,14 @@
+C:\Github\TryParse\bin\Debug\net7.0\TryParse.exe
+C:\Github\TryParse\bin\Debug\net7.0\TryParse.deps.json
+C:\Github\TryParse\bin\Debug\net7.0\TryParse.runtimeconfig.json
+C:\Github\TryParse\bin\Debug\net7.0\TryParse.dll
+C:\Github\TryParse\bin\Debug\net7.0\TryParse.pdb
+C:\Github\TryParse\obj\Debug\net7.0\TryParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\TryParse\obj\Debug\net7.0\TryParse.AssemblyInfoInputs.cache
+C:\Github\TryParse\obj\Debug\net7.0\TryParse.AssemblyInfo.cs
+C:\Github\TryParse\obj\Debug\net7.0\TryParse.csproj.CoreCompileInputs.cache
+C:\Github\TryParse\obj\Debug\net7.0\TryParse.dll
+C:\Github\TryParse\obj\Debug\net7.0\refint\TryParse.dll
+C:\Github\TryParse\obj\Debug\net7.0\TryParse.pdb
+C:\Github\TryParse\obj\Debug\net7.0\TryParse.genruntimeconfig.cache
+C:\Github\TryParse\obj\Debug\net7.0\ref\TryParse.dll
